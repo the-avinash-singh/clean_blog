@@ -1,0 +1,15 @@
+{
+    "params":{
+        "local_server":"True",
+        "local_uri":"mysql+pymysql://root:@localhost/clean_bolg",
+        "prod_uri":null,
+        "secret_key":"secret_key",
+        "gmail-user":"abhinavarya87012@gmail.com",
+        "gmail-password":"avinash123@",
+        "no_of_post":2,
+        "login_image":"login.png",
+        "admin_user":"admin",
+        "password":"clean_blog",
+        "upload_location":"D:\\practice\\static\\assets\\img"
+    }
+}
