@@ -1,0 +1,32 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+*.env
+
+# Virtual environments
+.venv/
+venv/
+
+# Flask-specific files
+instance/
+*.pyc
+
+# Logs
+*.log
+*.flaskenv
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Editor backups and settings
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Deployment files
+*.sqlite3
+*.db
